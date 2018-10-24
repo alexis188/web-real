@@ -1,0 +1,48 @@
+html{
+font-family: 'Open Sans', sans-serif;
+background-color:#F20A63;
+margin:3px;
+}
+.magik{
+visibility: hidden;
+background-color:aquamarine;
+border-radius:15px;
+}
+.titulo{
+background-color:#7ED3CC;
+border-radius:15px;
+width:475px;
+}
+.trollface{
+border-radius:15px;
+}
+.blogvideojuegos{
+background-color:#74C8E6;
+border-radius:15px;
+width:475;    
+}
+.anunciomemes{
+position:relative;
+left:-500;
+}
+@media (max-width: 1080px) {
+.anunciomemes img{
+position:relative;
+left:300px;
+}
+.anunciomemes h2{
+position:relative;
+left:300px;
+}
+html{
+background-color:aquamarine;
+}
+.magik{
+visibility: visible;
+}
+}
+.scroll{
+width:320px;
+height:250  ;
+overflow:scroll;
+}

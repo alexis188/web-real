@@ -1,0 +1,42 @@
+html{
+font-family: 'Open Sans', sans-serif;
+    background-color:#40DBD8;
+    margin:3px;
+}
+.titulo{
+background-color:#57C8B3;
+border-radius:15px;
+width:300px;
+}
+.trollface{
+width:300;
+height:250;    
+}
+.meme{
+width:300;
+height:325;
+background-color:#839CC3;
+border-radius:15px;
+float:left;
+margin:13px;
+}
+.fotodememe{
+width:250;
+height:250;
+position:relative;
+left:22.5;
+top:-20;
+}
+.textodememe{
+position:relative;
+left:107.5;
+}
+.volver{    
+position:relative;
+top:-300;
+left:-1000;
+}
+.didvmenu{
+position:relative;
+top:-100;
+}

@@ -3,6 +3,10 @@ font-family: 'Open Sans', sans-serif;
 background-color:#F20A63;
 margin:3px;
 }
+.galletas_maria{
+position:relative;
+left:325px;
+}
 .magik{
 visibility: hidden;
 background-color:aquamarine;
